@@ -1,4 +1,9 @@
 ### 
-scoop add bucket extras java nerd-fonts
 
-scoop install 7zip git aria2 Cascadia-Code git googlechrome hyper idea-ultimate nodejs-lts openjdk17 openssh postman pwsh sublime-text vscode 
+scoop install git
+
+scoop bucket add extras
+scoop bucket add java
+scoop bucket add nerd-fonts
+
+scoop install Cascadia-Code googlechrome hyper idea-ultimate nodejs-lts openjdk17 postman pwsh sublime-text vscode 
